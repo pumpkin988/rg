@@ -1,0 +1,44 @@
+.col-md-6{
+    text-align: my-auto;
+}
+.img-fluid{
+    
+}
+.card{
+    margin-top: 5px;
+   
+}
+
+.card-img-top{
+    margin-top: 0px;
+    text-color:blue;
+
+
+}
+.card-text{
+    margin-top: 5px;
+    text-align: center;
+    color: blue;
+}
+.col{
+    color: lightblue;
+}
+.bg-info{
+    width: 100%;
+}
+.resume-card{
+    border-radius: 11px;
+    border-width: 5px;
+    box-shadow: 0 3px 10px skyblue;
+    padding: 20px;
+    margin: 30px;
+}
+
+.resume-name{
+    color: blue;
+    
+    
+}
+
+
+
